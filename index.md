@@ -4,7 +4,8 @@ Welcome to my Markdown page and my [GitHub](https://github.com/JoshRiley) page! 
 
 ### Some Code
 ```
-if caffeine < 1 and caffeine == 'REQUIRED':
-	input('coffee')
-
+# View all data in the IDE to check it is reading properly
+View(caseData, "Case Data")
+View(deathData, "Deaths Data")
+View(totalCaseData, "Total Cumulative Cases")
 ```
