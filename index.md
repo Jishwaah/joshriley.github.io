@@ -2,7 +2,7 @@
 
 Welcome to my Markdown page and my [GitHub](https://github.com/JoshRiley) page! Take a look around!
 
-### Some Code
+### Some Code From a Project
 ```
 # View all data in the IDE to check it is reading properly
 View(caseData, "Case Data")
